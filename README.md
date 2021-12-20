@@ -72,7 +72,7 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 </p>
  
 
-[![NotSaksh's github activity graph](https://activity-graph.herokuapp.com/graph?username=NotSaksh&theme=xcode&line=33cc33)](https://github.com/NotSaksh) 
+[![lmgxenon's github activity graph](https://activity-graph.herokuapp.com/graph?username=lmgxenon&theme=xcode&line=33cc33)](https://github.com/lmgxenon) 
 <br>
 
 ## Tools and Technologies
@@ -81,9 +81,4 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 
 ## 2,203 Contributions In The Last Year
-![snake gif](https://github.com/NotSaksh/NotSaksh/blob/output/github-contribution-grid-snake.gif)
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/NotSaksh/Hydrox/pull/6) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
-2. 🎉 Merged PR [#7](https://github.com/NotSaksh/Hydrox/pull/7) in [NotSaksh/Hydrox](https://github.com/NotSaksh/Hydrox)
-<!--END_SECTION:activity-->
+![snake gif](https://github.com/lmgxenon/NotSaksh/blob/output/github-contribution-grid-snake.gif)
