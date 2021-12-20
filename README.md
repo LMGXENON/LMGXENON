@@ -12,7 +12,7 @@
 
 ### Glad to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=iampavangandhi.iampavangandhi&style=flat-square&color=0088cc)
 
-A passionate Full Stack Software Developer 🚀 Having An Experience Of Building Web And Mobile Applications With JavaScript / Reactjs / Nodejs / React Native And Some Other Cool Libraries And Frameworks.
+A passionate Full Stack Software Developer 🚀 Having An Experience Of Building Web And Mobile Applications With JavaScript, Reactjs, Nodejs, React Native And Some Other Cool Libraries And Frameworks.
 
 ## Like My Work?
 
@@ -25,7 +25,7 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Flutter, Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Flutter, Nodejs, Express, React, <br /> Mysql, Mongodb, Javascript and etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lmgxenon).
 - 💬 &nbsp; Ask me about anything [here](https://lmgxenon.xyz/contact)! I am happy to help.
@@ -41,10 +41,9 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 <h3 align="left">Connect With Me 🤙</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
 <a href="https://instagram.com/lmg_xenon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="LMG XENON" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCdfUaR4vS7Th__zaU5nVWNg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="LMG XENON" height="30" width="40" /></a>
-<a href="https://discord.gg/ExKW6wHuY9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NotSaksh" height="30" width="40" /></a>
+<a href="https://discord.gg/QaRsHMw4rj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="LMG XENON" height="30" width="40" /></a>
 <a href="https://www.twitter.com/lmg_xenon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="LMG XENON" height="30" width="40" /></a>
 </p>
 
@@ -53,10 +52,8 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 ## Youtube Stats ⌚
 
 <div align="center">
-<img alt="Subcribers" src="https://img.shields.io/youtube/channel/subscribers/UCgFuTFC-Nubq9EdBdBPAOUg?style=for-the-badge">
-<img alt="Total Views" src="https://img.shields.io/youtube/channel/views/UCgFuTFC-Nubq9EdBdBPAOUg?style=for-the-badge">
-<img alt="Likes" src="https://img.shields.io/youtube/likes/V8qYfIgg0-k?style=for-the-badge">
-<img alt="YouTube Channel Comments" src="https://img.shields.io/youtube/comments/V8qYfIgg0-k?style=for-the-badge">
+<img alt="Subcribers" src="https://img.shields.io/youtube/channel/subscribers/UCdfUaR4vS7Th__zaU5nVWNg?style=for-the-badge">
+<img alt="Total Views" src="https://img.shields.io/youtube/channel/views/UCdfUaR4vS7Th__zaU5nVWNg?style=for-the-badge">
 	
 </div> 
 
@@ -64,14 +61,14 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 ## Github Stats  🗿
 
 <p align = "center">
-  <img width="48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=NotSaksh&theme=dark">
+  <img width="48%" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=lmgxenon&theme=dark">
 </p>
 
 <hr>
 <p align="center">
 	
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NotSaksh&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NotSaksh&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lmgxenon&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lmgxenon&theme=tokyonight" />
 </p>
  
 
