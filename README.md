@@ -1,7 +1,7 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm LMG XENON</h1>
-<h3 align="center">I'm a passionate Full Stack Developer</h3>
+<h3 align="center">I'm a Passionate Full Stack Developer</h3>
 <hr>
 
 
@@ -26,40 +26,27 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🛠 &nbsp; I’m currently working with Flutter, Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
 - 🚀 &nbsp; I’m currently learning Full Stack Development.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/NotSaksh).
-- 💬 &nbsp; Ask me about anything [here](https://github.com/NotSaksh/issues/2)! I am happy to help.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/lmgxenon).
+- 💬 &nbsp; Ask me about anything [here](https://lmgxenon.xyz/contact)! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: notsakshyam6968@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://github.com/Sakshyam6966/NotSaksh/blob/master/resume.pdf).
+- 📫 &nbsp; How to reach me: lmgxenon@gmail.com.
+- 📝 &nbsp; Checkout my [Resume](https://lmgxenon.xyz).
 
 ### My Absolute Favorites:
 
-- 💻 &nbsp; I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp; I love exploring new tech stack and building cool stuff.
 - 📰 &nbsp; Reading & writing tech blogs whenever possible.
 - 🍕 &nbsp; Hackathons, meetups & tech events.
 
 <h3 align="left">Connect With Me 🤙</h3>
 <p align="left">
-<!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/notsaksh6969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://instagram.com/notsaksh6969" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCCSxnxwMXQHTAIjVjaAg7CQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="NotSaksh" height="30" width="40" /></a>
+<!-- <a href="https://twitter.com/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
+<a href="https://instagram.com/lmg_xenon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="LMG XENON" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCdfUaR4vS7Th__zaU5nVWNg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="LMG XENON" height="30" width="40" /></a>
 <a href="https://discord.gg/ExKW6wHuY9" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.facebook.com/sakshyam.baral.311" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/pinterest.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/snapchat.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src= "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/skype.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/qzone.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/google.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/wechat.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mix.svg" alt="NotSaksh" height="30" width="40" /></a>
-<a href="https://www.twitter.com/NotBeluga69" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="NotSaksh" height="30" width="40" /></a>
-
+<a href="https://www.twitter.com/lmg_xenon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="LMG XENON" height="30" width="40" /></a>
 </p>
 
 <hr>
