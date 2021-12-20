@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<a href="https://lmgxenon.xyz"><img align="center" width="auto" height="auto" src="https://cdn.discordapp.com/attachments/877897447546970145/893114961365200976/207x207_xenonbot.png" height="auto"/></a>
 
 <h1 align="center">Hey, I'm LMG XENON</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer</h3>
@@ -16,10 +16,12 @@ A passionate Full Stack Software Developer 🚀 Having An Experience Of Building
 
 ## Like My Work?
 
+
 <a href="https://www.buymeacoffee.com/" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
 
-<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />![146803687-9fe78c2f-126a-4dbb-acf7-a7e6e884b2d3](https://user-images.githubusercontent.com/82078620/146803850-d6a29fb7-f3fe-48a8-8b53-d0e5579acd6a.png)
+
 
 
 
