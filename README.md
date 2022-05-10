@@ -1,4 +1,4 @@
-<a href="https://lmgxenon.xyz"><img align="center" width="auto" height="auto" src="https://cdn.discordapp.com/attachments/877897447546970145/893114961365200976/207x207_xenonbot.png"/></a>
+<a href="https://lmgxenon.xyz"><img align="center" width="auto" height="auto" src="https://cdn.discordapp.com/avatars/931645484920107088/a_aacf1661e384459192b4c2faa2ffa168.gif?size=4096"/></a>
 
 <h1 align="center">Hey, I'm LMG XENON</h1>
 <h3 align="center">I'm a Passionate Full Stack Developer</h3>
