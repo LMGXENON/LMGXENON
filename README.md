@@ -1,4 +1,4 @@
-https://cdn.discordapp.com/attachments/1116329767684280320/1116329813075038258/xenongithubbanner.png
+![Banner]("https://cdn.discordapp.com/attachments/1116329767684280320/1116329813075038258/xenongithubbanner.png")
 <sup>_I am a man who loves **programming** and **coffee**_</sup>
 
 - A Full-stack Web and App Developer
